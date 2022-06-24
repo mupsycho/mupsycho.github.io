@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 引用脑岛
 
-You can use the [editor on GitHub](https://github.com/mupsycho/mupsycho.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+发布在 ChinaXiv 的预印本文献`APA 7th`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+?> 陈国球，高晓雪，鄢忻媛，杜梦，臧寅垠，汪寅. (2022). 在线心理学研究的历史、现状和展望. ChinaXiv. http://chinaxiv.org/abs/202206.00150
 
-### Markdown
+?> Chen, G., Gao, X., Yan, X., Du, M., Zang, Y., & Wang, Y. (2022). The History, Current Situation and Prospects of Online Psychological Research. ChinaXiv. http://chinaxiv.org/abs/202206.00150
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mupsycho/mupsycho.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [视频教程](https://b23.tv/BV1ei4y127kS)
