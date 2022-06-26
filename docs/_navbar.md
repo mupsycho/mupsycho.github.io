@@ -3,15 +3,13 @@
 #blacktowhite:hover { cursor: pointer; text-decoration: underline; } 
 </style>
 
-* 快速开始
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+* [常见问题](/FAQ/)
 
-* 常见问题
+* [研究者操作手册](/researcher-manual/)
 
-* [开发日志](develop.md)
+* [平台操作手册](/user-manual/)
 
-* <div id="blacktowhite">切换黑白</div>
+* [开发日志](/develop/)
+
+* [设置](/setting/)

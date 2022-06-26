@@ -1,5 +1,5 @@
 
-![logo](imgs/logo.png)
+![logo](assets/imgs/logo.png)
 
 # 脑岛 <small>3.5</small>
 
