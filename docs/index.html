@@ -53,18 +53,18 @@
   })();
 </script>
 <script>
-  const gitalk = new Gitalk({
-    clientID: 'f18b920d95ea7c1ce912',
-    clientSecret: '5a4a2cd5a3621fc777ab19e8fb8e5772845f44e1',
-    repo: 'gittalk',
-    owner: 'mupsycho',
-    admin: ['mupsycho'],
-    title: window.location.hash,
-    id: window.location.hash,
-    labels: ["naodao"]
+  //const gitalk = new Gitalk({
+    //clientID: 'f18b920d95ea7c1ce912',
+    //clientSecret: '5a4a2cd5a3621fc777ab19e8fb8e5772845f44e1',
+    //repo: 'gittalk',
+    //owner: 'mupsycho',
+    //admin: ['mupsycho'],
+    //title: window.location.hash,
+    //id: window.location.hash,
+    //labels: ["naodao"]
     // facebook-like distraction free mode
     // distractionFreeMode: false
-  });
+  //});
   window.onhashchange = function (event) {
     if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
       location.reload();
